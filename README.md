@@ -1,1 +1,1 @@
-"# My-number-guessing" 
+"# cli-number-guessing" 
